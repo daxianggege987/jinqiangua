@@ -18,11 +18,6 @@
 
 将上述 URL 填入 App Store Connect 的 **隐私政策 URL** 与 **支持 URL**。
 
-## 发布前请修改
-
-1. 两个 HTML 文件中的 **`support@yijingbagua.app`** 改为您真实可用的邮箱。  
-2. 若应用名称或功能有变更，请同步更新正文。
-
 ## 推送到 GitHub（示例）
 
 ```bash
