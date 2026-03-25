@@ -9,12 +9,12 @@
 
 在 GitHub 仓库中启用 **Settings → Pages**，Source 选择 **Deploy from a branch**，Branch 选 **main**（或 **master**），文件夹选 **`/docs`**。
 
-假设您的用户名为 **`YOUR_USERNAME`**，仓库名为 **`YOUR_REPO`**，则公开链接一般为：
+本仓库已启用 Pages，公开链接为：
 
 | 页面     | URL |
 |----------|-----|
-| 隐私政策 | `https://YOUR_USERNAME.github.io/YOUR_REPO/privacy-policy.html` |
-| 技术支持 | `https://YOUR_USERNAME.github.io/YOUR_REPO/support.html` |
+| 隐私政策 | https://daxianggege987.github.io/jinqiangua/privacy-policy.html |
+| 技术支持 | https://daxianggege987.github.io/jinqiangua/support.html |
 
 将上述 URL 填入 App Store Connect 的 **隐私政策 URL** 与 **支持 URL**。
 
